@@ -1,5 +1,5 @@
 # rest-api-express
-In thes proyect were used express, nodejs and packages like cors, mongoose.
+In thes project were used express, nodejs and packages like cors, mongoose.
 
 You can run
 
